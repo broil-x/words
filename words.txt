@@ -82,13 +82,7 @@ loca
 loci
 foci
 fuci
-fuji
-suji
-sufi
-sugi
-fugi
-fuge
-fuse (jump)
+fuck (jump)
 
 duct
 duit
@@ -155,7 +149,8 @@ boyo
 toyo
 toro
 thro
-thio
+tiro (jump)
+
 thir
 this
 ghis
@@ -196,7 +191,6 @@ ekes
 ukes
 uses
 eses
-emes
 eyes (jump)
 
 amps
@@ -1825,7 +1819,8 @@ grip
 grin
 grid
 irid
-imid
+iris (jump)
+
 amid
 amie
 amir
